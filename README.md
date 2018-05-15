@@ -9,6 +9,6 @@ If you use these functions in this repository,
           #include "./[directory]/include.h"
 
 
-Informations.
+**Informations.**
 
-2018/05/14 GCC used checking is 5.4.0 now.
+*[2018/05/14] GCC used checking is 5.4.0 now.*
