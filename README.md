@@ -8,7 +8,7 @@ If you use these functions in this repository,
           
           #include "./[directory]/include.h"
           
-4. Before you use functions, in your C program, carry out the function named [a function name]_initialize();. If you want to know detail, please show "https://qiita.com/Y_F_Acoustics/items/713c21472c1d3034668e#%E8%BF%BD%E8%A8%98" 
+4. Before you use functions, in your C program, carry out the function named [a function name]_initialize();. If you want to know detail, please show "https://qiita.com/Y_F_Acoustics/items/713c21472c1d3034668e#%E8%BF%BD%E8%A8%98" .
 
 **Informations.**
 
