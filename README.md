@@ -1,4 +1,4 @@
-# C_function_from_MATLAB
+# C_Mat
 C language functions generated from MATLAB. These functions are checked operation by GCC 5.4.x 
 
 If you use these functions in this repository, 
