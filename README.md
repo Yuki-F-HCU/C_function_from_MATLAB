@@ -12,5 +12,5 @@ If you use these functions in this repository,
 
 **Informations.**
 
-*[2018/05/14] GCC used checking is 5.4.0 now.*
-*[2018/07/06] In some libraries, an example c file added in each library. If you use, please plactice *
+*[2018/05/14] GCC used checking is 5.4.0 now.*  
+*[2018/07/06] In some libraries, an example c file added in each library. If you use, please plactice /example/main.c*  
